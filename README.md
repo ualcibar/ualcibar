@@ -37,6 +37,10 @@ Desarrollador de software con experiencia en **entornos industriales** (CAD/CAM)
 ## 🎓 Formación
  
 - **Ingeniería de Software** — 42 Urduliz (Red 42 Network), Common Core completado *(2021 – actualidad)*
+[![ualcibar's 42 stats](https://badge.mediaplus.ma/darkblue/ualcibar)](https://github.com/oakoudad/badge42)
+
+
+---
 - **CFGS Desarrollo de Aplicaciones Web (DAW)** — Birt LH *(2021 – 2024)*
 ---
  
