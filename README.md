@@ -21,15 +21,17 @@ Desarrollador de software con experiencia en **entornos industriales** (CAD/CAM)
  
 ---
  
-## 💼 Experiencia
+## 💼 Experiencia laboral
  
 **Ingeniero de Software CAD/CAM** — [Lantek](https://www.lantek.com) · *Nov 2023 – Sep 2025*
 - Desarrollo y mantenimiento de módulos en **C++** para software industrial CAD/CAM.
+<!-- 
 - Implementación de nuevas funcionalidades siguiendo ciclos ágiles.
 - Colaboración con equipos multidisciplinares en proyectos de mejora de producto.
 **Prácticas de Desarrollo Web** — Shackleton Innovation · *2021*
 - Funcionalidades en aplicaciones web con **HTML, CSS, PHP**.
 - Mantenimiento de bases de datos y contenidos.
+-->
 ---
  
 ## 🎓 Formación
