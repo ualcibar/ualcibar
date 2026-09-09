@@ -31,7 +31,7 @@
  
 Desarrollador de software con experiencia en **entornos industriales** (CAD/CAM) y **desarrollo web**, actualmente en búsqueda activa de nuevas oportunidades. Formado tanto en escuela tradicional como en metodología peer-to-peer (42 Network), con enfoque en mejora continua y capacidad de adaptación a proyectos y equipos distintos.
  
-📍 Berango, Vizcaya (País Vasco) · 🌍 Abierto a reubicación / remoto
+📍 Berango, Bizkaia (País Vasco/Euska Herria) · 🌍 Abierto a reubicación / remoto
  
 ---
  
