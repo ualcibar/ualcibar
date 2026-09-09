@@ -33,4 +33,4 @@ Some of my favurite proyects =)
 
 ### Why study at 42?
  
-42 is a tuition-free, teacher-free school based on **peer-to-peer learning** and **project-based education**. Instead of lectures, students learn by building real projects from scratch and having their code evaluated by fellow students. This model builds strong **autonomy, problem-solving skills, resilience and teamwork** — qualities that are hard to teach in a traditional classroom and that are highly valued in the software industry, where working with imperfect information and learning on the fly is the norm.<p align="right"><a href="README.es.md">🇪🇸 Español</a></p>
+42 is a tuition-free, teacher-free school based on **peer-to-peer learning** and **project-based education**. Instead of lectures, students learn by building real projects from scratch and having their code evaluated by fellow students. This model builds strong **autonomy, problem-solving skills, resilience and teamwork** — qualities that are hard to teach in a traditional classroom and that are highly valued in the software industry, where working with imperfect information and learning on the fly is the norm.
