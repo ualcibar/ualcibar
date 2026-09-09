@@ -2,13 +2,13 @@
 <h3 align="center">Software Developer · C/C++ · Python · Web</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=neomikus&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=neomikus&theme=buefy&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=uaclibar&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=uaclibar&theme=buefy&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars">
     <img alt="My GitHub stats" style="height: auto; width: 52%;">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=neomikus&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=neomikus&theme=buefy&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=uaclibar&theme=radical&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=uaclibar&theme=buefy&layout=compact&size_weight=0.4&count_weight=0.6&hide=objective-c,makefile,cmake,gdscript,shell">
     <img alt="My GitHub coding languages" style="height: auto; width: 39.5%;"></img>
   </picture>
 </div>
