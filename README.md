@@ -1,6 +1,15 @@
 <h1 align="center">Hola, soy Unai Alcibar 👋</h1>
 <h3 align="center">Software Developer · C/C++ · Python · Web</h3>
 <div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/unai-alcibar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:unaialcibar11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Disponibilidad-Inmediata-brightgreen?style=flat" />
+</p>
   <!-- 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ualcibar&theme=radical&rank_icon=github&show_icons=true&card_height=400px&layout=compact&show=prs_merged&hide=stars">
@@ -15,15 +24,6 @@
   </picture>
 </div>
  
-<p align="center">
-  <a href="https://www.linkedin.com/in/unai-alcibar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:unaialcibar11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Disponibilidad-Inmediata-brightgreen?style=flat" />
-</p>
 
 ---
  
